@@ -20,6 +20,12 @@
             queue.Append(30);
             queue.Append(70);
             queue.Display();
+            queue.Deque();
+            queue.Display();
+            queue.Deque();
+            queue.Display();
+            queue.Deque();
+            queue.Display();
         }   
     }    
 }
